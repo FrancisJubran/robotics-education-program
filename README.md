@@ -1,7 +1,7 @@
 # RoboticsEducation Program
 
 A robotics-based educational platform designed to teach programming, mathematics, and control concepts through interaction with a real robotic system.
-
+![cobot](teaser/radial_LDR.png)
 ---
 ## Notes on Availability & Collaboration
 
@@ -139,4 +139,4 @@ In practice, this layer supports a simple pipeline of:
 
 ## Teaser
 
-![cobot](assets/teaser.png)
+![cobot](teaser/3_stages_double_directional_ldrs.png)
