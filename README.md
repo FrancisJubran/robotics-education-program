@@ -121,9 +121,9 @@ Its main purpose is to support:
   A small helper script that uses `arduino_tools.py` to compile and upload a selected sketch to the Arduino.  
   It serves as a direct execution example for development and testing.
 
-- `read_ultra.py`  
-  A lightweight serial listener for reading real-time data from the Arduino.  
-  It receives streamed messages over USB, parses distance-related output, and prints the values in a simple format for further use.
+- `read_ultra.py`   
+  A lightweight, non-blocking serial interface for real-time communication with Arduino-based sensors.  
+  It supports streaming and parsing of generic sensor data (e.g., distance, light intensity), and outputs values in a simple format for downstream processing.
 
 ---
 
