@@ -1,4 +1,4 @@
-# RoboticsEducation Program
+# Robotics Education Program
 
 A robotics-based educational platform designed to teach programming, mathematics, and control concepts through interaction with a real robotic system.
 
