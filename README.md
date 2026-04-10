@@ -1,6 +1,7 @@
 # RoboticsEducation Program
 
 A robotics-based educational platform designed to teach programming, mathematics, and control concepts through interaction with a real robotic system.
+
 ![cobot](teaser/radial_LDR.png)
 ---
 ## Notes on Availability & Collaboration
